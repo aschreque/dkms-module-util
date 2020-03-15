@@ -18,7 +18,7 @@ Steps in this section only need to be run once. Skip this part if your signing k
 
 ### 0.1 Clone or Download This Repository
 ```
-git clone https://github.com/definite/dkms-modules
+git clone https://github.com/definite/dkms-modules-util
 cd dkms-modules
 ```
 
